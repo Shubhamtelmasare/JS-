@@ -1,7 +1,7 @@
 let a = "11";
 console.log(typeof a);
 console.log(a);
-let valueInNumber = Number(a);
+let valueInNumber = Number(a); // Similar for converting in String Boolean
 console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
